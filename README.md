@@ -24,3 +24,8 @@ Check the questions here: [Questions](./questions/README.md)
 - [Petscop](https://www.youtube.com/channel/UCZKQv0ZFHpeIUkOtNjtq4KA) & its community for their excellent [writeup](https://docs.google.com/document/d/1WUJXwnWYZbYH7MYorn5U6YIwAf3wWBeIFSwOlbexmkw/edit#) of the ARG which some questions for this CTF.
 - [Wilbur Soot](https://www.youtube.com/@WilburPlays) for his ARG which also inspired some questions for this CTF.
 - [Game Theory](https://www.youtube.com/@GameTheory) for covering all these ARGs in thier excellent videos on [Petscop](https://www.youtube.com/watch?v=oC88jsc-wpg&list=PLOl4b517qn8jPy_03-p_4O17ySyOHtlwY) & [Wilbur Soot ARG](https://www.youtube.com/watch?v=NtNDgOWN_2o).
+
+## TODO
+
+1. Port the FBCTF to php and remove hacklang dependency.
+2. Complete writeups for all questions.
